@@ -1,0 +1,26 @@
+/*.sidebar-menu{
+	background: #ff0;
+}*/
+.logo-mini, .logo-lg{
+	color: #333;
+}
+.logo-mini:hover{
+	color: #5e6468;
+}
+.treeview-mn{
+	background: #B2AF00;
+	border: 1px solid #A19E00;
+}
+.sidebar-menu li > a {
+  color: #333;
+}
+.border1{
+	border: 1px solid 000;
+}
+.sidebar-menu .treeview-menu > li > a:hover{
+  background: #eaeaea;
+}
+.nopadding{
+	 padding: 0 !important;
+   margin: 0 !important;
+}
